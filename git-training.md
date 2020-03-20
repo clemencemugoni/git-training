@@ -8,5 +8,4 @@ Covering the basics
 -[]  Git branch
 -[]  Git push
 -[]  Git log
--[]  Github
 -[]  Github Desktop
